@@ -1,0 +1,6 @@
+Diagramas de actividade
+Diagrama de compoñentes
+Fallo na comunicación co SO? Hai que contemplalo por se ocorre? Temos varias situacións...
+Supoñemos que a GPSN debe estar activa.
+Comentarlle como fumos desenvolvendo os diagramas de secuencia ata o de agora.
+Consellos para aplicar patróns...?
