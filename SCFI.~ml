@@ -27406,9 +27406,9 @@
 <XPD:OBJ name="OwnedViews[17]" type="UMLSeqObjectView" guid="kxyVqMkx8kqg7ioLE7EBCwAA">
 <XPD:ATTR name="FillColor" type="string">$00A8FE96</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">1500</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">580</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">664</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">79</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">541</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">457</XPD:ATTR>
 <XPD:REF name="Model">nc8mlBTIMkK+13mXH1iAWAAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="5hOdD7WDxECo9KfF0V+1ngAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="BbwpfsQAl0+up5fBTdTiWQAA">
